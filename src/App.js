@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 import {TwitterShareButton,TwitterIcon,FacebookShareButton,FacebookIcon,WhatsappShareButton,WhatsappIcon} from 'react-share';
 class App extends Component {
   render() {
-    const shareUrl = 'buzz.jpg';  
+    const shareUrl = 'https://pbs.twimg.com/media/Dr8sCEHWoAEaX6W.jpg';  
     const via = 'Rohan';
     const title = 'Twitter Image';
     const hashtags = ['Twitter'];
@@ -26,13 +26,13 @@ class App extends Component {
 					<meta property="og:description" content="1 person wants answer to this question. Be the first one to respond." />
 					<meta property="fb:app_id" content="128678167815456" />
 
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@site_username" />
-          <meta name="twitter:title" content="Top 10 Things Ever" />
-          <meta name="twitter:description" content="Up than 200 characters." />
-          <meta name="twitter:creator" content="@creator_username" />
-          <meta name="twitter:image" content="http://placekitten.com/250/250" />
-          <meta name="twitter:domain" content="YourDomain.com" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@testact7" />
+    <meta name="twitter:title" content="Top 10 Things Ever" />
+    <meta name="twitter:description" content="Up than 200 characters." />
+    <meta name="twitter:creator" content="@rohanarihant7" />
+    <meta name="twitter:image" content="https://rohanmpllc.github.io/hello/buzz.jpg" />
+    <meta name="twitter:domain" content="https://rohanmpllc.github.io/hello/" />
 				</Helmet>
         <header className="App-header">
         <div className="">
