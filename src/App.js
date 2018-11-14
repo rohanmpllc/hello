@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet";
 import {TwitterShareButton,TwitterIcon,FacebookShareButton,FacebookIcon,WhatsappShareButton,WhatsappIcon} from 'react-share';
 class App extends Component {
   render() {
-    const shareUrl = 'https://pbs.twimg.com/media/Dr8sCEHWoAEaX6W.jpg';  
+    const shareUrl = 'https://rohanmpllc.github.io/hello/buzz.jpg';  
     const via = 'Rohan';
     const title = 'Twitter Image';
     const hashtags = ['Twitter'];
