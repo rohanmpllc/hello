@@ -26,7 +26,7 @@ class App extends Component {
 					<meta property="og:description" content="1 person wants answer to this question. Be the first one to respond." />
 					<meta property="fb:app_id" content="128678167815456" />
 
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@testact7" />
     <meta name="twitter:title" content="Top 10 Things Ever" />
     <meta name="twitter:description" content="Up than 200 characters." />
